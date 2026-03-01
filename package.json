@@ -1,5 +1,7 @@
 {
-  "name": "yaak-plugin-bitwarden",
+  "name": "@kingsleybawuah/yaak-plugin-bitwarden",
+  "displayName": "Bitwarden",
+  "description": "Yaak plugin for retrieving passwords from Bitwarden",
   "private": true,
   "version": "0.0.1",
   "scripts": {
